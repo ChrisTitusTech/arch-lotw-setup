@@ -20,7 +20,7 @@ Typically I just clone it into the home folder and delete it once I'm done.
 
 ---
 
-### Run ArchMatic files
+### Run LOTW Arch Setup files
 Run the following scripts:
 
     $   ./1-install.sh
